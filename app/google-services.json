@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952823441664",
+    "project_id": "ec4-final-3fa10",
+    "storage_bucket": "ec4-final-3fa10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952823441664:android:a7436591500bb8181bebe5",
+        "android_client_info": {
+          "package_name": "pe.idat.flickrlistadatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952823441664-cv8kklboq4prbmhsi2n7du10hjdhqttj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmHqPNzzQeVy7okTWUVNia8RMzOmMHZAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952823441664-cv8kklboq4prbmhsi2n7du10hjdhqttj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
